@@ -1,3 +1,3 @@
-SUBDIRS = yaml-0.1.4
+SUBDIRS = libyaml-0.2.2
 
-EXTRA_DIST = yaml-0.1.4.tar.gz
+EXTRA_DIST = libyaml-0.2.2.tar.gz
